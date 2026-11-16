@@ -1,8 +1,10 @@
-# cs50p-ex
-
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img data-importer="image" height="150" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
 </div>
+
+###
+
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
 ###
 
@@ -15,13 +17,9 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=alisonnicolevillamilortiz321-lab.alisonnicolevillamilortiz321-lab&"  />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
-
-###
-
-<h1 data-importer="text" align="center">hey there 👋</h1>
 
 ###
 
@@ -30,6 +28,12 @@
 ###
 
 <p data-importer="text" align="left">I'm Alison Villamil from Colombia<br><br>- 🔭 I’m a student who is transitioning into tech and taking my first steps in software development.<br><br>- 📚 I'm currently learning Python, algorithms, flowcharts, and problem-solving logic.<br>⁍ Studying: Programming Fundamentals at *SENA* and *Harvard's CS50*.<br><br>- ⚡ In my free time I enjoy listening to music, reading and walking<br><br>- 🎯 My Goals for this year<br>⁍ Build a strong foundation in programming logic and Python.<br>⁍ Complete my first logic exercises and upload them here to track my progress.<br>⁍ Launch my own project and create my first asset<br>⁍ Improve my technical English by documenting everything I build.</p>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
 
 ###
 
@@ -59,6 +63,12 @@
 
 ###
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
+
+###
+
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
 ###
@@ -69,21 +79,12 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alisonnicolevillamilortiz321-lab/alisonnicolevillamilortiz321-lab/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alisonnicolevillamilortiz321-lab/alisonnicolevillamilortiz321-lab/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alisonnicolevillamilortiz321-lab/alisonnicolevillamilortiz321-lab/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
+<br clear="both">
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alisonnicolevillamilortiz321-lab/alisonnicolevillamilortiz321-lab/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alisonnicolevillamilortiz321-lab/alisonnicolevillamilortiz321-lab/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alisonnicolevillamilortiz321-lab/alisonnicolevillamilortiz321-lab/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
-###
-<img data-importer="snake" src="https://raw.githubusercontent.com/alisonnicolevillamilortiz321-lab/alisonnicolevillamilortiz321-lab/snake-output/snake.svg" alt="Snake animation" />
 
 ###
